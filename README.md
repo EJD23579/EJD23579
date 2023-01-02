@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self-taught developer and I am looking for work as a developer.
+I am a self-taught developer and I am looking for work in this field.
 
 - 🔭 I’m currently working on my portfolio projects, to show my skills in coding, as well as improving other skills essential for the job such as Git, Jira/Agile, AWS and Docker.
 - 👯 I’m looking to collaborate on anything I can! I am keen to work with others and learn lot - feel free to reach out!
